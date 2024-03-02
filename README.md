@@ -8,7 +8,6 @@ https://github.com/urahara0623/pygame_samples/assets/107330078/538edea1-9e1d-492
 
  - ステップ４
 
-
 Uploading step4.mp4…
 
 
