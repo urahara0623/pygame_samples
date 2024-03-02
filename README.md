@@ -5,11 +5,10 @@ https://github.com/urahara0623/pygame_samples/assets/107330078/538edea1-9e1d-492
  - ステップ３  
    ![](images/step3.png)
 
-   Uploading pygame demo - window title here 2024-03-02 21-11-16.mp4…
-
 
  - ステップ４
-   ![](images/step4.png)
+
+    ![](images/step4.png)
  - ステップ５、６
    ![](images/step5,6.png)
  - ステップ７
